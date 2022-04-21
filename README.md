@@ -6,7 +6,7 @@
 
 - 📫 Discord **Juzso#0001**
 
-- 💻 I’m currently working on [Corion](https://corion.hu)
+- 💻 I’m currently working on **[Corion](https://discord.gg/corion)**
 
 <h3 align="left">Contact with me:</h3>
 <p align="left">
@@ -14,7 +14,10 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href=
+
+<h3 align="left">Projects:</h3>
+
+- Owner of **[Corion](https://discord.gg/corion)**
 <!---
 juzsovagyok/juzsovagyok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
