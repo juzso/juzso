@@ -31,6 +31,6 @@
 </p>
 
 <h3 align="left">Projects:</h3>
-<p align="left">
-- 💻 **Owner, Web, and MC Developer** @ Corion
-  </p>
+
+- **Owner, MC, Web Developer** @ [Corion](https://discord.gg/corion)
+
