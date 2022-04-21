@@ -27,5 +27,5 @@
 
 <h3 align="left">Projects:</h3>
 <p align="left">
-- 💻 Owner, Web, and MC Developer of [Corion](https://discord.gg/corion)
+- 💻 **Owner, Web, and MC Developer @ Corion**
   </p>
