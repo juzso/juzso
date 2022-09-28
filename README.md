@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Javascript, Python**
 
-- 📫 Discord **Juzso#0146**
+- 📫 Discord **Juzso#0001**
 
 - 💻 I’m currently working on **[Corion](https://discord.gg/corion)**
 
