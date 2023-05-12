@@ -1,9 +1,9 @@
 <p align="center"><img src="https://gpvc.arturio.dev/juzso" alt="Visitors"></a>
-<h1 align="center">👋 Hi, I'm Juzso, kt</h1>
+<h1 align="center">👋 Hi, I'm Juzso (kt)</h1>
 <h3 align="center">A 17 year old high school student.</h3>
 
 
-- 📫 Discord **juzso#0001**
+- 📫 Discord **juzso#0001**, **kt#2000**
 
 <h3 align="left">Contact with me:</h3>
 <p align="left">
