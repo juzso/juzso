@@ -1,3 +1,4 @@
+<p align="center"><img src="https://gpvc.arturio.dev/juzso" alt="Visitors"></a>
 <h1 align="center">👋 Hi, I'm Juzso</h1>
 <h3 align="center">A 16 year old high school student who loves to code.</h3>
 
