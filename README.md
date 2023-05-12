@@ -1,18 +1,14 @@
 <p align="center"><img src="https://gpvc.arturio.dev/juzso" alt="Visitors"></a>
 <h1 align="center">👋 Hi, I'm Juzso</h1>
-<h3 align="center">A 16 year old high school student who loves to code.</h3>
+<h3 align="center">A 17 year old high school student.</h3>
 
 
-- 🌱 I’m currently learning **Javascript, Python**
-
-- 📫 Discord **Juzso#0001**
-
-- 💻 I’m currently working on **[Corion](https://discord.gg/corion)**
+- 📫 Discord **juzso#0001**
 
 <h3 align="left">Contact with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/c/Juzso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bowie" height="30" width="40" /></a>
-<a href="https://instagram.com/juzsovagyok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juzsovagyok" height="30" width="40" /></a>
+<a href="https://www.youtube.com/juzso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bowie" height="30" width="40" /></a>
+<a href="https://instagram.com/csanyi.kristof" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juzsovagyok" height="30" width="40" /></a>
 <a href="https://discord.gg/corion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="corion" height="30" width="40" /></a>
 </p>
 
@@ -33,5 +29,5 @@
 
 <h3 align="left">Projects:</h3>
 
-- **Owner, MC, Web Developer** @ [Corion](https://discord.gg/corion)
+- **Owner** @ [Corion](https://discord.gg/corion)
 
