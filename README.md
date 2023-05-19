@@ -3,7 +3,7 @@
 <h3 align="center">A 17 year old high school student.</h3>
 
 
-- 📫 Discord **juzso#0001**, **kt#2000**
+- 📫 Discord **juzso#0001**, **kt#3000**
 
 <h3 align="left">Contact with me:</h3>
 <p align="left">
