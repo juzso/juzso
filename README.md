@@ -1,14 +1,13 @@
 <p align="center"><img src="https://komarev.com/ghpvc/?username=juzso&label=Profile%20views&color=0e75b6&style=flat" alt="Visitors" /></a>
-<h1 align="center">👋 Hi, I'm Juzso (kt)</h1>
-<h3 align="center">A 17 year old high school student.</h3>
+<h1 align="center">👋 Hi, I'm Juzso</h1>
 
 
-- 📫 Discord **juzso#0001**, **kt#3000**
+- 📫 Discord **juzso#0000**
 
 <h3 align="left">Contact with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/juzso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bowie" height="30" width="40" /></a>
-<a href="https://instagram.com/csanyi.kristof" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juzsovagyok" height="30" width="40" /></a>
+<a href="https://instagram.com/csanyikristoff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="juzsovagyok" height="30" width="40" /></a>
 <a href="https://discord.gg/corion" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="corion" height="30" width="40" /></a>
 </p>
 
